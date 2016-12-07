@@ -1,10 +1,7 @@
 //
 // Created by Angel Zaprianov on 7.12.2016 г..
 //
-
 #include "I2cSimpleListener.h"
-
-
 
 /**
  * Constructor

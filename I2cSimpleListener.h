@@ -5,9 +5,12 @@
 #ifndef ARDUINO_I2C_SIMPLE_LISTENER_H
 #define ARDUINO_I2C_SIMPLE_LISTENER_H
 
+#define I2C_SIMPLE_LISTENER_VERSION 1
+
 #ifndef IC2_LISTENER_LENGTH
 #define IC2_LISTENER_LENGTH 8
 #endif
+
 
 #include <Arduino.h>
 
@@ -24,7 +27,6 @@ private:
     //
     // Mask container
     uint8_t _sclBitMask, _sdaBitMask;
-
 
     volatile uint8_t *_sclPortReg;
     volatile uint8_t *_sdaPortReg;
