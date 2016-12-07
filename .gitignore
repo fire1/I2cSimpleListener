@@ -16,7 +16,8 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
-
+/.idea/
+/cmake-build-debug/
 # =========================
 # Operating System Files
 # =========================
