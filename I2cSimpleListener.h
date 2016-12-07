@@ -7,6 +7,7 @@
 
 #ifndef IC2_LISTENER_LENGTH
 #define IC2_LISTENER_LENGTH 8
+#endif
 
 #include <Arduino.h>
 
