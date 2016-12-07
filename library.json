@@ -1,0 +1,30 @@
+{
+"name": "I2cSimpleListener",
+"frameworks": "Arduino",
+"keywords": "I2C, listen, bus, slave",
+"description": "Listen I2C messages over I2C network",
+"authors":
+[
+    {
+        "name": "Angel Zaprianov",
+        "email": "me@fire1.eu",
+        "url": "http://fire1.eu",
+        "maintainer": true
+    },
+    {
+        "name": "Angel Zaprianov"
+    },
+    {
+        "name": "Angel Zaprianov",
+        "email": "me@fire1.eu"
+    },
+    {
+        "name": "Angel Zaprianov"
+    }
+],
+"repository":
+{
+    "type": "git",
+    "url": "https://github.com/fire1/I2cSimpleListener"
+}
+}
