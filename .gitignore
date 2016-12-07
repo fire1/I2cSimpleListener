@@ -7,8 +7,8 @@ Desktop.ini
 
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
-cmake-build-debug/
-.idea/
+/cmake-build-debug/
+/.idea/
 # Windows Installer files
 *.cab
 *.msi
